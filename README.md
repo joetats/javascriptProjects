@@ -2,4 +2,6 @@
 
 Collection of JS projects from online courses or fun ideas.
 
-bikeGearingCalculator - calculate speed ranges for a certain gearing based on cadence and wheel size.
+coolTimer - fun animated timer using JS to manipulate the DOM and listen to events.
+
+bikeGearingCalculator - in progress, but will be a nice to use calculator for gearing ratios compared to cadences
